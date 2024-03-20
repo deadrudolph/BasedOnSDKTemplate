@@ -21,7 +21,7 @@ pluginManagement {
             credentials {
                 username = "deadrudolph"
                 // Readonly token for Github Packages
-                password = "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"
+                password = "<Contact the code owner to get a ReadOnly token>"
             }
         }
     }
@@ -39,7 +39,7 @@ dependencyResolutionManagement {
             credentials {
                 username = "deadrudolph"
                 // Readonly token for Github Packages
-                password = "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"
+                password = "<Contact the code owner to get a ReadOnly token>"
             }
         }
     }
